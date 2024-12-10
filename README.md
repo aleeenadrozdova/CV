@@ -1,6 +1,6 @@
 # CV
 
-[Резюме](./Resume.pdf)
+[Резюме](./CV_Drozdova.pdf)
 
 [Практикум по матанализу](./Calculus/README.md)
 
